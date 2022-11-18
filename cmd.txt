@@ -1,1 +1,4 @@
 hello this is cmd .txt
+
+now i will  modify this file to know what actually happens
+
